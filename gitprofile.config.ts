@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/gitprofile/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Daniel De La Parra',
     description: '',
     imageURL: '',
   },
@@ -69,50 +69,53 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'You are on it!',
+    website: 'https://thephobos52.github.io/gitprofile/',
     phone: '',
     email: 'danieldelaparra2@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
     'Java',
-    'C#'
+    'C#',
+    'Git',
+    'Design Thinking',
+    'Test Planning'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
+      company: 'Finastra',
+      position: 'SW Quality Management',
+      from: 'June 2022',
+      to: 'August 2022',
       companyLink: 'https://example.com',
     },
-    {
+    /*{
       company: 'Company Name',
       position: 'Position',
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
-    },
+    },*/
   ],
   certifications: [
-    {
+    /*{
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
-    },
+    },*/
   ],
   educations: [
-    {
+    /*{
       institution: 'Institution Name',
       degree: 'Degree',
       from: '2015',
@@ -123,10 +126,10 @@ const CONFIG = {
       degree: 'Degree',
       from: '2012',
       to: '2014',
-    },
+    },*/
   ],
   publications: [
-    {
+    /*{
       title: 'Publication Title',
       conferenceName: '',
       journalName: 'Journal Name',
@@ -134,21 +137,12 @@ const CONFIG = {
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    },*/
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
