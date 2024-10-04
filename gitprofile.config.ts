@@ -40,14 +40,14 @@ const CONFIG = {
             'https://media.discordapp.net/attachments/418891583719604237/1291500835297300590/cursor.png?ex=67005362&is=66ff01e2&hm=047d501c5fbc7de679ec636b832f5de4caa71b4b915845e6b1edaed1b24304aa&=&format=webp&quality=lossless',
           link: 'https://play.unity.com/en/games/37cd8958-5d83-4e43-ab53-1d5f3f7a302a/marsstrikesback',
         },
-        {
+        /*{
           title: 'Project Name',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
-        },
+        },*/
       ],
     },
   },
