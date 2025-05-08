@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Mars Strikes Back',
           description:
-            'Skills displayed: Unity, C#, Scrum, Git, Team organization, Team communication<br/>Things I learned: How to work through merge conflicts Interfaces and abstract classes, and how to use them',
+            'Skills displayed: Unity, C#, Scrum, Git, Team organization, Team communication Things I learned: How to work through merge conflicts Interfaces and abstract classes, and how to use them',
           imageUrl:
             'https://media.discordapp.net/attachments/418891583719604237/1291500835297300590/cursor.png?ex=67005362&is=66ff01e2&hm=047d501c5fbc7de679ec636b832f5de4caa71b4b915845e6b1edaed1b24304aa&=&format=webp&quality=lossless',
           link: 'https://play.unity.com/en/games/37cd8958-5d83-4e43-ab53-1d5f3f7a302a/marsstrikesback',
@@ -43,10 +43,18 @@ const CONFIG = {
         {
           title: 'Stranded Together',
           description:
-            'Skills displayed: Unity, C#, Git, Project Planning<br/>Things I learned: How to create a high fidality prototype and how to plan out a project from scratch (What you have to think about, how much you can plan for)',
+            'Skills displayed: Unity, C#, Git, Project Planning Things I learned: How to create a high fidality prototype and how to plan out a project from scratch (What you have to think about, how much you can plan for)',
           imageUrl:
             'https://media.discordapp.net/attachments/418891583719604237/1291500835297300590/cursor.png?ex=67005362&is=66ff01e2&hm=047d501c5fbc7de679ec636b832f5de4caa71b4b915845e6b1edaed1b24304aa&=&format=webp&quality=lossless',
           link: 'https://thephobos52.itch.io/stranded-together',
+        },
+        {
+          title: 'Turing Test',
+          description:
+            'Skills displayed: Unity, C#, Things I learned: How to create a high fidality prototype and how to plan out a project from scratch (What you have to think about, how much you can plan for)',
+          imageUrl:
+            'https://media.discordapp.net/attachments/418891583719604237/1291500835297300590/cursor.png?ex=67005362&is=66ff01e2&hm=047d501c5fbc7de679ec636b832f5de4caa71b4b915845e6b1edaed1b24304aa&=&format=webp&quality=lossless',
+          link: 'https://play.unity.com/en/games/eca9d860-1c58-46c6-baa7-a6a62b1e564d/turing-test-midterm-project',
         },
         /*{
           title: 'Project Name',
