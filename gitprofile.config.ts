@@ -34,7 +34,7 @@ const CONFIG = {
       projects: [
         {
           title: 'LawLantis',
-          description:'Skills displayed: Unity, C#, Git, Team organization, Team communication, Project Planning Things \\n I learned: How to work with a team over a long term project and how to organize a team to avoid merge conflicts',
+          description:'Skills displayed: Unity, C#, Git, Team organization, Team communication, Project Planning Things \n I learned: How to work with a team over a long term project and how to organize a team to avoid merge conflicts',
           imageUrl:
             'https://pixabay.com/images/download/openclipart-vectors-instrument-2024355_1920.png',
           link: 'https://lawlantis-devteam.github.io/play/'
