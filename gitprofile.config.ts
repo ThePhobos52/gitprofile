@@ -35,6 +35,8 @@ const CONFIG = {
         {
           title: 'LawLantis',
           description:'Skills displayed: Unity, C#, Git, Team organization, Team communication, Project Planning Things I learned: How to work with a team over a long term project and how to organize a team to avoid merge conflicts',
+          imageUrl:
+            'https://pixabay.com/images/download/openclipart-vectors-instrument-2024355_1920.png',
           link: 'https://lawlantis-devteam.github.io/play/'
         },
         {
@@ -109,22 +111,23 @@ const CONFIG = {
     'C#',
     'Git',
     'Design Thinking',
-    'Test Planning'
+    'Test Planning',
+    'Unity'
   ],
   experiences: [
-    {
-      company: 'Finastra',
-      position: 'SW Quality Management',
-      from: 'June 2022',
-      to: 'August 2022',
-      companyLink: 'https://example.com',
-    },
     {
       company: 'Revitaled Reintegration Services',
       position: 'Contract Game Developer',
       from: 'September 2025',
       to: 'March 2026',
       companyLink: 'https://revitaled.ca'
+    },
+    {
+      company: 'Finastra',
+      position: 'SW Quality Management',
+      from: 'June 2022',
+      to: 'August 2022',
+      companyLink: 'https://example.com',
     },
     /*{
       company: 'Company Name',
