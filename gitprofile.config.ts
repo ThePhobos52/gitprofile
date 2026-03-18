@@ -119,6 +119,13 @@ const CONFIG = {
       to: 'August 2022',
       companyLink: 'https://example.com',
     },
+    {
+      company: 'Revitaled Reintegration Services',
+      position: 'Contract Game Developer',
+      from: 'September 2025',
+      to: 'March 2026',
+      companyLink: 'https://revitaled.ca'
+    },
     /*{
       company: 'Company Name',
       position: 'Position',
