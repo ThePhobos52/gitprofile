@@ -34,7 +34,7 @@ const CONFIG = {
       projects: [
         {
           title: 'LawLantis',
-          description:'Skills displayed: Unity, C#, Git, Team organization, Team communication, Project Planning                                             Things I learned: How to work with a team over a long term project and how to organize a team to avoid merge conflicts',
+          description:'I learned: How to work with a team over a long term project and how to organize a team to avoid merge conflicts',
           imageUrl:
             'https://pixabay.com/images/download/openclipart-vectors-instrument-2024355_1920.png',
           link: 'https://lawlantis-devteam.github.io/play/'
@@ -42,7 +42,7 @@ const CONFIG = {
         {
           title: 'Mars Strikes Back',
           description:
-            'Skills displayed: Unity, C#, Scrum, Git, Team organization, Team communication Things I learned: How to work through merge conflicts Interfaces and abstract classes, and how to use them',
+            'Things I learned: How to work through merge conflicts, Interfaces and abstract classes, and how to use them',
           imageUrl:
             'https://media.discordapp.net/attachments/418891583719604237/1291500835297300590/cursor.png',
           link: 'https://play.unity.com/en/games/37cd8958-5d83-4e43-ab53-1d5f3f7a302a/marsstrikesback',
@@ -50,7 +50,7 @@ const CONFIG = {
         {
           title: 'Stranded Together',
           description:
-            'Skills displayed: Unity, C#, Git, Project Planning Things I learned: How to create a high fidality prototype and how to plan out a project from scratch (What you have to think about, how much you can plan for)',
+            'Things I learned: How to create a high fidality prototype and how to plan out a project from scratch (What you have to think about, how much you can plan for)',
           imageUrl:
             'https://media.discordapp.net/attachments/418891583719604237/1291500835297300590/cursor.png?ex=67005362&is=66ff01e2&hm=047d501c5fbc7de679ec636b832f5de4caa71b4b915845e6b1edaed1b24304aa&=&format=webp&quality=lossless',
           link: 'https://thephobos52.itch.io/stranded-together',
@@ -58,7 +58,7 @@ const CONFIG = {
         {
           title: 'Turing Test',
           description:
-            'Skills displayed: Unity, C#, Things I learned: How to create a high fidality prototype and how to plan out a project from scratch (What you have to think about, how much you can plan for)',
+            'Things I learned: How to create a prototype and how to plan out a project from scratch (What you have to think about, how much you can plan for)',
           imageUrl:
             'https://media.discordapp.net/attachments/418891583719604237/1291500835297300590/cursor.png?ex=67005362&is=66ff01e2&hm=047d501c5fbc7de679ec636b832f5de4caa71b4b915845e6b1edaed1b24304aa&=&format=webp&quality=lossless',
           link: 'https://play.unity.com/en/games/eca9d860-1c58-46c6-baa7-a6a62b1e564d/turing-test-midterm-project',
